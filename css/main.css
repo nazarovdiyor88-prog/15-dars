@@ -146,6 +146,7 @@
     border: 2px solid red;
     gap: 39px;
     margin-top: 62px;
+    margin-bottom: 100px;
 }
 .pages__image{
     margin-top: 33px;
@@ -170,6 +171,234 @@
     color: #000000;
     opacity: 60%;
     margin-bottom: 27px;
+}
+.submenyu__container{
+    padding-top: 141.39px;
+    padding-bottom: 146.4px;
+}
+.submenyu__boxOne{
+    width: 442px;
+    margin-left: 252px;
+}
+.submenyu__title{
+    font-family: Hind Madurai;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 111.00000000000001%;
+    letter-spacing: 0%;
+    color: #150101;
+    width: 349px;
+    margin-bottom: 16.04px;
+}
+.submenyu__textOne{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    color: #150101;
+    line-height: 24px;
+    letter-spacing: 0%;
+    opacity: 60%;
+    margin-bottom: 35.1px;
+}
+.submenyu__btn{
+    width: 165px;
+    height: 49.13px;
+    border-radius: 5px;
+    background: #D64374;
+    border: none;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FAFAFA;
+}
+.submenyu__imageOne{
+    position: absolute;
+    left: 768px;
+    top: -75px;
+}
+.submenyu__imageTwo{
+    position: absolute;
+    left: 948px;
+}
+.main__container{
+    background: white;
+}
+.main__boxOne{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 137px;
+}
+.main__title{
+    font-family: Hind Madurai;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #150101;
+}
+.main__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 64px;
+}
+.main__link{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+    border-bottom: 2px solid #D64374;
+}
+.main__linkOne{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    opacity: 60%;
+    color: #000000;
+}
+.main__boxEgiht{
+    display: flex;
+    gap: 6px;
+}
+.main__boxThree{
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    align-items: center;
+    margin-top: 50px;
+    border: 2px solid red;
+}
+.main__boxSix{
+    width: 454px;
+    height: 234px;
+    border: 2px solid red;
+}
+.main__boxSix-title{
+    font-family: Hind Madurai;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+    margin-bottom: 11px;
+}
+.main__boxFive-text{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #000000;
+    opacity: 70%;
+    margin-bottom: 34px;
+}
+.main__boxSix-title{
+    font-family: Hind Madurai;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+    line-height: 100%;
+    letter-spacing: 0%;    
+}
+.main__boxSix-text{
+    font-family: Hind Madurai;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: line-through;
+    color: #000000;
+    opacity: 70%;
+    margin-bottom: 16px;
+}
+.main__boxSeven{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #D64374;
+    border: none;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FAFAFA;
+}
+.main__boxSix:nth-child(1){
+    text-align: right;
+}
+.main__boxSix-titleOne{
+    font-family: Hind Madurai;
+    font-weight: 500;
+    font-size: 26px;
+    color: #000000;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.main__boxEgihtOne{
+    display: flex;
+    justify-content: right;
+}
+.main__boxThen{
+    display: flex;
+    gap: 11px;
+    margin-bottom: 46px;
+}
+.main__boxSix-titleOne{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000000;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.main__boxSix-textOne{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 12px;
+    color: #000000;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 70%;
+    margin-top: 5px;
+    text-align: left;
+}
+.main__boxSix-subtext{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    line-height: 24px;
+    letter-spacing: 0%;
+    opacity: 70%;
+    width: 322px;
+    text-align: left;
+    margin-bottom: 56px;
+}
+.main__boxNine{
+    display: flex;
+    justify-content: left;
+    gap: 27px;
+    align-items: center;
+}
+.main{
+    padding-bottom: 233px;
+}
+.canvas__boxOne{
+    display: flex;
+    gap: 134px;
+    margin-left: 220px;
 }
 
 
